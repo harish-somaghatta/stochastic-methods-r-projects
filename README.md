@@ -1,4 +1,4 @@
-# Stochastic Methods (R) — Applied Statistics Projects
+# Stochastic Methods (R) - Applied Statistics Projects
 
 This repository contains **applied statistics mini-projects in R**, including:
 
